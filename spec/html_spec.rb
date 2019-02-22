@@ -1,6 +1,6 @@
 require "pry"
 
-RSpec.describ 'In this lab,' do
+RSpec.describe 'In this lab,' do
 
   context 'in index.html' do
 
